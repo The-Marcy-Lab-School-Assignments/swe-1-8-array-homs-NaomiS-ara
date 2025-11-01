@@ -175,7 +175,7 @@ anyGreaterThan10([1, 5, 7, 12]);
 anyGreaterThan10([1, 2, 3]);
 // → false
 ```
-### Question 6: roundAll
+### Question 6: roundAll - (.map)
 
 **For the remaining questions, you must identify which array method to use!**
 
